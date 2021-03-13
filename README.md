@@ -1,16 +1,17 @@
-### Hi there 👋
+<h1 align="center">Endri Mataj</h1>
+<h3 align="center">An unsual software engineer</h3>
 
-<!--
-**endrimataj/endrimataj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 I’m currently learning **Swift**
 
-Here are some ideas to get you started:
+- 💬 Ask me about **software in general**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📫 How to reach me **matajendri7@gmail.com**
+
+- 📄 Know about my experiences [https://www.linkedin.com/in/endri-mataj-855182189/](https://www.linkedin.com/in/endri-mataj-855182189/)
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/endrimataj2" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="endrimataj2" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/endri-mataj-855182189" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="endri-mataj-855182189" height="30" width="40" /></a>
+<a href="https://instagram.com/endrimataj_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="endrimataj_" height="30" width="40" /></a>
+</p>
