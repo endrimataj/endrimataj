@@ -1,8 +1,6 @@
 <h1 align="center">Endri Mataj</h1>
 <h3 align="center">An unsual software engineer</h3>
 
-- 🌱 I’m currently learning **Swift**
-
 - 💬 Ask me about **software in general**
 
 - 📫 How to reach me **matajendri7@gmail.com**
